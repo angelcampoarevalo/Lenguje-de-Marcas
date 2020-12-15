@@ -32,7 +32,6 @@ html {
     margin: 0 0 0 32.5px;
   }
 
-  /* main section and video styling */
 
   main {
     background: #ccc;
@@ -56,7 +55,7 @@ html {
     max-width: 100%;
   }
 
-  /* further info links */
+  
 
   .further-info {
     clear: left;
@@ -80,7 +79,7 @@ html {
     clear: both;
   }
 
-  /* Red panda image */
+ 
 
   .red-panda img {
     display: block;
