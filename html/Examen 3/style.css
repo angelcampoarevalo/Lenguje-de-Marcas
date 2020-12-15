@@ -1,87 +1,85 @@
-
-
 html {
-    font-family: 'Open Sans', sans-serif;
-    background: url(pattern.png);
-  }
+  font-family: 'Open Sans', sans-serif;
+  background: url(pattern.png);
+}
 
-  body {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    background-color: white;
-    position: relative;
-  }
-
- 
-
-  header {
-    height: 150px;
-  }
-
-  header img {
-    width: 100px;
-    position: absolute;
-    right: 32.5px;
-    top: 32.5px;
-  }
-
-  h1 {
-    font-size: 50px;
-    line-height: 140px;
-    margin: 0 0 0 32.5px;
-  }
+body {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: white;
+  position: relative;
+}
 
 
-  main {
-    background: #ccc;
-  }
 
-  article {
-    padding: 20px;
-  }
+header {
+  height: 150px;
+}
 
-  h2 {
-    margin-top: 0;
-  }
+header img {
+  width: 100px;
+  position: absolute;
+  right: 32.5px;
+  top: 32.5px;
+}
 
-  p {
-    line-height: 2;
-  }
+h1 {
+  font-size: 50px;
+  line-height: 140px;
+  margin: 0 0 0 32.5px;
+}
 
-  iframe {
-    float: left;
-    margin: 0 20px 20px 0;
-    max-width: 100%;
-  }
 
-  
+main {
+  background: #ccc;
+}
 
-  .further-info {
-    clear: left;
-    padding: 40px 0;
-    background: #c13832;
-    box-shadow: inset 0 3px 2px rgba(0,0,0,0.5),
-                inset 0 -3px 2px rgba(0,0,0,0.5);
-  }
+article {
+  padding: 20px;
+}
 
-  .further-info a {
-    width: 25%;
-    display: block;
-    float: left;
-  }
+h2 {
+  margin-top: 0;
+}
 
-  .further-info img {
-    max-width: 100%;
-  }
+p {
+  line-height: 2;
+}
 
-  .clearfix {
-    clear: both;
-  }
+iframe {
+  float: left;
+  margin: 0 20px 20px 0;
+  max-width: 100%;
+}
 
- 
 
-  .red-panda img {
-    display: block;
-    max-width: 100%;
-  }
+
+.further-info {
+  clear: left;
+  padding: 40px 0;
+  background: #c13832;
+  box-shadow: inset 0 3px 2px rgba(0, 0, 0, 0.5),
+    inset 0 -3px 2px rgba(0, 0, 0, 0.5);
+}
+
+.further-info a {
+  width: 25%;
+  display: block;
+  float: left;
+}
+
+.further-info img {
+  max-width: 100%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+
+
+.red-panda img {
+  display: block;
+  max-width: 100%;
+}
